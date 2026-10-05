@@ -1,18 +1,5 @@
 [
   {
-    "id": "coniSvTMfnetvfZmEycHT5oHxPeS6tPd",
-    "plugin": "attachment-management",
-    "type": "plugin",
-    "language": "zh-cn",
-    "version": "1.0.0",
-    "supported_versions": "0.12.1",
-    "title": "Attachment Management",
-    "description": "Attachment Management Localization & Tweaks",
-    "hash": "418c47d1418c47d1418c47d1418c47d1",
-    "created_at": "2026-10-05T04:05:11.446Z",
-    "updated_at": "2026-10-05T04:05:11.446Z"
-  },
-  {
     "id": "yG-lORLfiHMP7rs9qa7lYePbWZfOYhFl",
     "plugin": "attachment-management",
     "type": "plugin",
