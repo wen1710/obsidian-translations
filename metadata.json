@@ -1,18 +1,5 @@
 [
   {
-    "id": "zNINrkKBqs7qWCV9GhKoRZp94-JluqOP",
-    "plugin": "Cyber Glow",
-    "type": "theme",
-    "language": "zh-cn",
-    "version": "1.0.0",
-    "supported_versions": "2.7.0",
-    "title": "Cyber Glow",
-    "description": "Cyber Glow Localization & Tweaks",
-    "hash": "5ced69195ced69195ced69195ced6919",
-    "created_at": "2026-10-05T04:05:11.448Z",
-    "updated_at": "2026-10-05T04:05:11.448Z"
-  },
-  {
     "id": "coniSvTMfnetvfZmEycHT5oHxPeS6tPd",
     "plugin": "attachment-management",
     "type": "plugin",
