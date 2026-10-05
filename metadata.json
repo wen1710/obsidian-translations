@@ -1,18 +1,5 @@
 [
   {
-    "id": "m54GiOP9HWnD0yZUQo43tG75Z1m7Wv4n",
-    "plugin": "obsidian-git",
-    "type": "plugin",
-    "language": "zh-cn",
-    "version": "1.0.0",
-    "supported_versions": "2.39.0",
-    "title": "Git",
-    "description": "Git Localization & Tweaks",
-    "hash": "4939f6ce4939f6ce4939f6ce4939f6ce",
-    "created_at": "2026-10-05T04:05:11.445Z",
-    "updated_at": "2026-10-05T04:05:11.445Z"
-  },
-  {
     "id": "N68QxNdL6jX6Z3YhkEQe9I9uB96lb18I",
     "plugin": "attachment-management",
     "type": "plugin",
